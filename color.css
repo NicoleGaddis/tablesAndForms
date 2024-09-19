@@ -1,0 +1,26 @@
+
+header{
+    background-color: #9394bd;
+    color: #3c2a4d;
+}
+table, tbody{
+    background-color: #574f7d;
+    border-color: #503a65;
+    color: #9394bd;
+}
+tr:nth-child(odd){
+    color:#9394bd;
+    background-color:#503a65
+}
+tr:nth-child(even){
+    background-color:#9394bd;
+    color:#503a65
+}
+tfoot{
+    background-color: #3c2a4d;
+    border-color: #3c2a4d;
+}
+main{
+    background-color:#9394bd;
+    color:#3c2a4d
+}

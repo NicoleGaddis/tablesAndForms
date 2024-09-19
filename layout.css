@@ -1,0 +1,33 @@
+header{
+    text-align: center;
+    padding:2rem;
+}
+table{
+    margin:auto;
+    margin-top: 1rem;
+    border-style: inset; 
+    width:80%  
+}
+table thead, tbody, tfoot{
+    padding:1rem;
+    text-align: center;
+}
+td{
+    padding: 0.5rem;
+}
+img{
+    margin-top: 1rem;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+figure{
+    padding: 1rem;
+    text-align:center;
+}
+
+div{
+    padding: 1rem;
+    margin-left: auto;
+}
